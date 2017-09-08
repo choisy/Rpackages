@@ -31,7 +31,7 @@ and the packages from [Bitbucket](https://bitbucket.org/choisy) repositories wit
 | [globcoverVN](https://choisy.github.io/globcoverVN) | Land use of Vietnam per pixel and per province, 2009 | 8.3MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/globcoverVN) |
 | [imhen](https://choisy.github.io/imhen) | Monthly meteorological data for Vietnam (1960-2015) | 0.7MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/imhen) |
 | [srtmVN](https://choisy.github.io/srtmVN) | Digital Elevation Model (DEM) for Vietnam from SRTM, v4.0 | 108.0MB | [<img src="Bitbucket.png" alt="" style="width:30px;height:30px;">](https://bitbucket.org/choisy/srtmVN) |
-| [worldpopVN](https://choisy.github.io/worldpopVN) | Local population density by pixel for Vietnam (2009, 10, 15, 20) | 741.0MB | [<img src="Bitbucket.png" alt="" style="width:30px;height:30px;">](https://bitbucket.org/choisy/worldpopVN) |
+| [worldpopVN](https://choisy.github.io/worldpopVN) | Population density by pixel for Vietnam (2009, 10, 15, 20) | 741.0MB | [<img src="Bitbucket.png" alt="" style="width:30px;height:30px;">](https://bitbucket.org/choisy/worldpopVN) |
 
 
 
