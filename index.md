@@ -25,7 +25,7 @@ and the packages from [Bitbucket](https://bitbucket.org/choisy) repositories wit
 | Package | Description | Size | Repo |
 |:--------|:------------|-----:|:----:|
 | [censusVN2009](https://choisy.github.io/censusVN2009) | Population census of Vietnam by commune, 2009 | 53.0MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/censusVN2009) |
-| [epiVN](https://choisy.github.io/epiVN) | Vaccine coverages for Vietnam from WHO's EPI (JE, 97-16) | 0.1MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/epiVN) |
+| [epiVN](https://choisy.github.io/epiVN) | Miscellaneous MoH / WHO EPI's data for Vietnam | 0.1MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/epiVN) |
 | [gadmSEA](https://choisy.github.io/gadmSEA) | Country polygons in southeast Asia | 0.2MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/gadmSEA) |
 | [gadmVN](https://choisy.github.io/gadmVN) | Provinces polygons of Vietnam from 1979 | 22.0MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/gadmVN) |
 | [globcoverVN](https://choisy.github.io/globcoverVN) | Land use of Vietnam per pixel and per province | 8.3MB | [<img src="Github_small.png" alt="" style="width:30px;height:30px;">](https://github.com/choisy/globcoverVN) |
